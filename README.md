@@ -8,9 +8,12 @@ Le dossier [save/] et son contenu doit impérativement se trouver dans le même 
 
 # Utilisation
 Vous trouverez des instructions détaillées pour vous connecter aux différentes interfaces dans le fichier [Rapport.pdf].
+Pour plus de clarté, le diagramme UML du projet a été joint ci dessus.
 
 # Auteurs
 Ce projet et l'integralité de ses classes et de ses interfaces graphiques est la création de :
 - Massil Taguemout		[massi@vivaldi.net]
 - Sylvain Bourgeon		[sbud.univ@gmail.com]
-- Maxime Wang		    	[maxime91250@yahoo.fr]
+- Maxime Wang			    [maxime91250@yahoo.fr]
+  L2INFO
+  Université d'Evry-Val-d'Essonne   2019
