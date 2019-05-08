@@ -1,6 +1,6 @@
 # Résumé
 Projet de programmation ayant pour thème la modélisation d'une application Java permettant la gestion d'un magasin de vente d'articles informatiques.
-[Java] [AWT] [Swing]
+[Java] [AWT] [Swing] [Interface]
 
 # Requirements
 L'ensemble des fichiers .jar de la bibliothèque [JFreeChart] se trouve sous le répértoire [lib/] et alternativement à l'adresse https://sourceforge.net/projects/jfreechart/
