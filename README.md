@@ -16,4 +16,4 @@ Ce projet et l'integralité de ses classes et de ses interfaces graphiques est l
 - Sylvain Bourgeon		[sbud.univ@gmail.com]
 - Maxime Wang			    [maxime91250@yahoo.fr]
 
-Université d'Evry-Val-d'Essonne   2019
+2019 - Université d'Evry-Val-d'Essonne
