@@ -3,8 +3,8 @@ Projet de programmation ayant pour thème la modélisation d'une application Jav
 [Java] [AWT] [Swing] [Interface]
 
 # Requirements
-- L'ensemble des fichiers .jar de la bibliothèque [JFreeChart] se trouve sous le répértoire [lib/] et alternativement à l'adresse https://sourceforge.net/projects/jfreechart/.
-- Le dossier [save/] et son contenu doit impérativement se trouver dans le même répertoire que le [.jar] exécutable, faute de quoi le programme ne marchera pas.
+- L'ensemble des fichiers .jar de la bibliothèque [JFreeChart] est requis et se trouve sous le répértoire [lib/] et alternativement à l'adresse https://sourceforge.net/projects/jfreechart/.
+- Le dossier [save/] et son contenu doit impérativement se situer dans le même répertoire que le [.jar] exécutable, faute de quoi le programme ne marchera pas.
 
 # Utilisation
 Vous trouverez des instructions détaillées pour vous connecter aux différentes interfaces dans le fichier [Rapport.pdf].
