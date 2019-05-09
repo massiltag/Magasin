@@ -1,4 +1,4 @@
-# Résumé
+# Magasin
 Projet de programmation ayant pour thème la modélisation d'une application Java permettant la gestion d'un magasin de vente d'articles informatiques.
 [Java] [AWT] [Swing] [Interface]
 
