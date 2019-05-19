@@ -11,9 +11,4 @@ Vous trouverez des instructions détaillées pour vous connecter aux différente
 Pour plus de clarté, le diagramme UML du projet a été joint ci dessus.
 
 # Auteurs
-Ce projet et l'integralité de ses classes et de ses interfaces graphiques sont la création de :
-- Massil Taguemout		[massi@vivaldi.net]
-- Sylvain Bourgeon		[sbud.univ@gmail.com]
-- Maxime Wang			    [maxime91250@yahoo.fr]
-
-2019 - Université d'Evry-Val-d'Essonne
+Ce projet et l'integralité de ses classes et de ses interfaces graphiques sont la création de Massil Taguemout [massi@vivaldi.net]
