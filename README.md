@@ -10,5 +10,5 @@ Projet de programmation ayant pour thème la modélisation d'une application Jav
 Vous trouverez des instructions détaillées pour vous connecter aux différentes interfaces dans le fichier [Rapport.pdf].
 Pour plus de clarté, le diagramme UML du projet a été joint ci dessus.
 
-# Auteurs
+# Auteur
 Ce projet et l'integralité de ses classes et de ses interfaces graphiques sont la création de Massil Taguemout [massi@vivaldi.net]
